@@ -10,5 +10,5 @@ Go Down to see all Documentation from every extension and codes!
 
 To Integrate to Your own Calendar, u need to see ur GCalendar ID to Integrate.
 change the ID right on the place that said "your calendar id"
-
+have fun!
 # thats all arivederci! (Next Extension is coming!)
