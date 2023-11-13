@@ -15,7 +15,7 @@ function createEvent() {
     var endingDate = new Date(date);
     endingDate.setHours(startingDate.getHours() + eventDuration);
 
-  calendar.createEvent(eventName, startingDate, endingDate,);
+  calendar.createEvent(eventName, startingDate, endingDate).setDescription(author);
   ss.getRange(i,4).setValue("Event Created")
     }
   }
