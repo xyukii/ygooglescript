@@ -1,6 +1,9 @@
 const eventDuration = 2;
 const calendar = CalendarApp.getCalendarById("bfd15a133d46eeaabf81525b487ec374d64f82fe394261edd7a3a3f91b031c4b@group.calendar.google.com")
 
+
+// createEvent akan menjadi function baru di google spreadsheet
+
 function createEvent() {
   const ws = SpreadsheetApp.getActiveSpreadsheet(); 
   const ss = ws.getActiveSheet(); 
